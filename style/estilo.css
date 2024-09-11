@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(30, 30, 31);
+    color: rgb(240, 243, 236);
+}
+
+.form-control {
+    background-color: rgba(148, 180, 212, 0.123);
+    border: 1px solid rgb(61, 67, 73);
+}
+
+.btn-salvar {
+    background-color: rgb(92, 83, 228);
+    border-color: rgb(189, 212, 103);
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
